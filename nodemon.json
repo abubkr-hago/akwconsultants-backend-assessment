@@ -1,0 +1,6 @@
+{
+  "ignore": ["dist"],
+  "verbose": true,
+  "ext": "ts,js,cjs,json",
+  "exec": "node -r ts-node/register src/index.js"
+}
